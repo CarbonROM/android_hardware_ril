@@ -1,5 +1,8 @@
 // Copyright 2013 The Android Open Source Project
 
+soong_namespace {
+}
+
 cc_library {
     name: "librilutils",
 
